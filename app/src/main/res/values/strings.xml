@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo Camera</string>
+    <string name="btnIntend">Capture Image</string>
+    <string name="btnIntendV">Record Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+</resources>
